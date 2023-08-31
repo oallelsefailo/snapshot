@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="./images/pic.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      BRANDON!
+    </div>
+    <p
+      className="card-text"
+    >
+      INFORMATION NO ONE NEEDS TO KNOW!!
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go somewhere
+    </button>
+  </div>
+</div>
+`;
